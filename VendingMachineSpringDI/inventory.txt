@@ -1,0 +1,12 @@
+Snickers::2.75::8
+Ruffles::2.75::6
+Twix::2.75::9
+Pringles::1.75::0
+Milky-Way::2.25::7
+Hershey::2.00::0
+Butterfinger::2.75::6
+Lays::2.50::6
+Cheetos::2.25::5
+Reese's::2.75::10
+Kit-Kat::3.00::12
+Doritos::2.50::7

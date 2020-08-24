@@ -1,0 +1,6 @@
+com\sg\enums\MathApp.class
+com\sg\enums\MathOperators.class
+com\sg\enums\Weekdays.class
+com\sg\enums\HowManyDaysUntilFriday.class
+com\sg\enums\HowManyDaysUntilFriday$1.class
+com\sg\enums\MathApp$1.class
